@@ -2,6 +2,7 @@ Hi all,
 
 I recently enrolled myself in Coursera's latest offering of "An Introduction to Interactive Programming in Python" 
 by Joe Warren, John Greiner, Stephen Wong, Scott Rixner in collaboration with RICE Univerisity.
+More about the Course here : https://www.coursera.org/course/interactivepython
 
 These are my solutions to the weekly programming assignments.
 Problems could be found through this link : https://class.coursera.org/interactivepython-003/human_grading/index
