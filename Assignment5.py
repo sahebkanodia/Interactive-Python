@@ -10,7 +10,7 @@ turns = 0
 
 # helper function to initialize globals
 def new_game():
-    global state, exposed, l
+    global state, exposed, l, turns
     random.shuffle(l)
     state = 0
     turns = 0
